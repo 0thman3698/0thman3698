@@ -13,9 +13,9 @@ I focus on building scalable APIs, authentication systems, and real-time applica
 - Socket.io, WebSocket
 
 ### 📌 Featured Projects
-- **Worksy** – Slack-like collaboration platform (NestJS + WebSocket)
-- **Task Manager API** – Authentication, roles, refresh tokens
+- **Worksy** – Slack-like collaboration platform (Express.js + WebSocket)
+- **On-Demand-Service** – Home & Professional Services Platform (NestJs)
 
 ### 📫 Contact
-- LinkedIn: (add later)
-- Email: (add later)
+- LinkedIn: https://www.linkedin.com/in/mohamed-osman1998/
+- Email: mohamed.osman3698@gamil.com
