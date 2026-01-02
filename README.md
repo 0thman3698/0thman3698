@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi 👋, I'm Mohamed Othman
 
-<!--
-**0thman3698/0thman3698** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer (Node.js / NestJS)
 
-Here are some ideas to get you started:
+I'm a chemistry graduate who transitioned into backend development.
+I focus on building scalable APIs, authentication systems, and real-time applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- Node.js, NestJS, Express
+- PostgreSQL, MongoDB
+- Prisma, Mongoose
+- JWT, OAuth2
+- Socket.io, WebSocket
+
+### 📌 Featured Projects
+- **Worksy** – Slack-like collaboration platform (NestJS + WebSocket)
+- **Task Manager API** – Authentication, roles, refresh tokens
+
+### 📫 Contact
+- LinkedIn: (add later)
+- Email: (add later)
